@@ -11,7 +11,7 @@ In this project, we will practice vanilla Javascript DOM manipulation by creatin
 ### Summary
 
 In this step, we will create a Javascript file and connect it to our HTML file.
-
+ 
 _Note: Review the exisiting HTML so you are familiar with the structure you are interacting with_
 
 ### Instructions
